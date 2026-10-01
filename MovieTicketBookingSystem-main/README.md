@@ -62,11 +62,3 @@ MOVIETICKETBOOKINGSYSTEM
 * Exception Handling
 * File Handling
 * Dependency Injection
-
-## Author
-
-Padma Sahitya Pavuluri
-
-## Assignment
-
-Developed as part of the DotNet Full Stack Training – Phase 1 Assignment.
